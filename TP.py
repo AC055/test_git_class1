@@ -1,5 +1,6 @@
 # Step 1: Basic output
 print("Welcome to the Git exercise!")
+print("Ciao")
 
 # Step 2: A simple calculation (buggy)
 # def subtract(a, b):
