@@ -3,6 +3,8 @@ print("Welcome to the Git exercise!")
 print("Ciao")
 print("THis is the branch test")
 
+print('this is cherry-pick1')
+
 # Step 2: A simple calculation (buggy)
 # def subtract(a, b):
 #     return a + b  # Bug: should be a - b
