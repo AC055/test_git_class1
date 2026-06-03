@@ -5,6 +5,7 @@ print("THis is the branch test")
 
 print('this is cherry-pick1')
 print("This is update commit check")
+print("This is reset check")
 
 # Step 2: A simple calculation (buggy)
 # def subtract(a, b):
