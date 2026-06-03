@@ -1,11 +1,16 @@
 # Step 1: Basic output
 print("Welcome to the Git exercise!")
 print("Ciao")
+<<<<<<< HEAD
 print("THis is the branch test")
 
 print('this is cherry-pick1')
 print("This is update commit check")
 print("This is reset check")
+=======
+print("this is reset check111")
+
+>>>>>>> dev2
 
 # Step 2: A simple calculation (buggy)
 # def subtract(a, b):
