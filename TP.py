@@ -1,7 +1,7 @@
 # Step 1: Basic output
 print("Welcome to the Git exercise!")
 print("Ciao")
-print("this is reset check")
+print("this is reset check111")
 
 
 # Step 2: A simple calculation (buggy)
