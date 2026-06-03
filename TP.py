@@ -4,6 +4,7 @@ print("Ciao")
 print("THis is the branch test")
 
 print('this is cherry-pick1')
+print("This is update commit check")
 
 # Step 2: A simple calculation (buggy)
 # def subtract(a, b):
@@ -13,6 +14,8 @@ print('this is cherry-pick1')
 # Step 3: Random fun
 import random
 print("Lucky number:", random.randint(1, 100))
+
+
 
 
 # Step 4: Final message
